@@ -1,0 +1,14 @@
+{
+    "name": "2025-08-31--17-08",
+    "type": "raw",
+    "kernelVersion": "5.15.167-android13-8-00008-g31975b884c4b-ab13216403 #1 SMP PREEMPT Fri Mar 14 08:33:17 UTC 2025",
+    "bootSha1": "ea34be59ce7b6de6797f9da9297c2198728c6f8a",
+    "hashes": {
+        "boot": "083ac6b3c5892ae5a5c443056a2040b73e1fd3e3a7d13660f0815ce15502169a",
+        "dtbo": "9ebaaabe03f3ff3709f1803db4122747f99cc4e5f2109544fd904a34a365e477",
+        "init_boot": "94ae21940a09f3c375a76922acde66fdb2033c2bcd31567e7dee4e853564360a",
+        "vbmeta": "6c4a7ecfd3f68c118ce39ba5a2bb1fac4be051f9492041303ad72b65267a4c2a",
+        "vendor_boot": "01fe7dec05a806ace04d213967bd5dfe5cc34e4e0e96d35fc6b247271ac9e785"
+    },
+    "hashAlgorithm": "SHA-256"
+}
